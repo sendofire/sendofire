@@ -41,4 +41,4 @@
 
 ## Current Goal
 
-Make small, fun game projects and improve one step at a time.
+Make my own game projects and improve one step at a time.
